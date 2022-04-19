@@ -7,7 +7,7 @@ android {
     compileSdk 31
 
     defaultConfig {
-        applicationId  "net.tech.world.truenumber"/*com.uchihan.androidinapp*/
+        applicationId  "com.uchihan.androidinapp"
         minSdk 21
         targetSdk 31
         versionCode 305
